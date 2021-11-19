@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Red Songbook</string>
+    <string name="edit_message">Search a Song</string>
+    <string name="button_send">Search</string>
+</resources>
